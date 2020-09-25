@@ -519,6 +519,9 @@ top: -88px;
 
 .Second-half
 {
+    position: relative;
+    top: -15px;
+    left: -90px;
     width: 525px;
 
 }

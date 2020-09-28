@@ -78,7 +78,7 @@ nav
 
 a:hover {
     color:black;
-    /* border-bottom: solid black 1px; */
+    border-bottom: solid black 1px;
   }
 
   /* -------------SALE CONTAINER--------- */
@@ -246,7 +246,7 @@ position: relative;
 
 .overlay{
     position: absolute;
-    top: 386px;
+    top: 382px;
     bottom: 0;
     left: 865px;
     right: 0;
@@ -287,7 +287,7 @@ position: relative;
   #pant
   {
     position: absolute;
-    top: 386px;
+    top: 382px;
     bottom: 0;
     left: 460px;
     right: 0;
@@ -323,7 +323,7 @@ position: relative;
   #hat
   {
     position: absolute;
-    top: 386px;
+    top: 382px;
     bottom: 0;
     left: 56px;
     right: 0;
